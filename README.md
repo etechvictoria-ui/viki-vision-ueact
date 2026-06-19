@@ -2,7 +2,7 @@
 
 **AI-powered emergency dispatch decision support system.**
 
-VIKI VISION UEACT is an Electron desktop application that analyses surveillance and incident images using AI vision models, converts the visual information into a structured JFP (JSON-Free Protocol) stream, and produces an auditable dispatch recommendation for emergency services operators.
+VIKI VISION UEACT is an Electron desktop application that analyses surveillance and incident images using AI vision models, converts the visual information into a structured JFP (Jaro Flash Protocol) stream, and produces an auditable dispatch recommendation for emergency services operators.
 
 Developed by **Eco Tech Victoria Ltd**.
 
